@@ -22,6 +22,18 @@ Our focus is on creating reliable mobile experiences, exploring modern Android t
 
 ---
 
+<div align="start">
+
+  ![](https://komarev.com/ghpvc/?username=AndroidCraftLabs&style=flat&color=brightgreen)
+
+</div>
+
+<div align="start">
+  
+<a href="mailto:developer.friendly.box@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a> 
+
+</div>
+
 ## Tech Stack
 
 ### Mobile Development
