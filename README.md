@@ -96,9 +96,22 @@ Our focus is on creating reliable mobile experiences, exploring modern Android t
 
 ## GitHub Statistics
 
-<p align="center">   <img src="[https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)" height="165" alt="GitHub statistics" />   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true)" height="165" alt="Most used programming languages" /> </p>
+<div align="center">
 
-<p align="center">   <img src="[https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true)" alt="GitHub contribution streak" /> </p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndroidCraftLabs&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndroidCraftLabs&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidCraftLabs&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndroidCraftLabs&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndroidCraftLabs&theme=github_dark)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidCraftLabs&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndroidCraftLabs&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidCraftLabs/github-readme-activity-graph)
+
+</div>
+
+---
 
 ---
 
