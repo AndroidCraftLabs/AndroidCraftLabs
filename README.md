@@ -96,9 +96,9 @@ Our focus is on creating reliable mobile experiences, exploring modern Android t
 
 ## GitHub Statistics
 
-<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="165" alt="GitHub statistics" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Most used programming languages" /> \</p>
+<p align="center">   <img src="[https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)" height="165" alt="GitHub statistics" />   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true)" height="165" alt="Most used programming languages" /> </p>
 
-<p align="center">   \<img src="[https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AndroidCraftLabs\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" /> \</p>
+<p align="center">   <img src="[https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true)" alt="GitHub contribution streak" /> </p>
 
 ---
 
@@ -114,6 +114,6 @@ We'd love to connect with developers and builders who enjoy creating useful soft
 ---
 
 <p align="center">
-&#x20; \<b>Engineer. Build. Innovate.\</b>\<br/>
-&#x20; \<sub>Crafting better software, one project at a time.\</sub>
-\</p>
+&#x20; <b>Engineer. Build. Innovate.</b><br/>
+&#x20; <sub>Crafting better software, one project at a time.</sub>
+</p>
