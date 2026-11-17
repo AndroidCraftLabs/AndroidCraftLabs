@@ -34,29 +34,51 @@ Our focus is on creating reliable mobile experiences, exploring modern Android t
 
 </div>
 
+
 ## Tech Stack
 
-### Mobile Development
+### Android & Mobile Development
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
+### Architecture & Libraries
 
-\
-
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
+![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-48A868?style=for-the-badge)
+![OkHttp](https://img.shields.io/badge/OkHttp-3C3C3C?style=for-the-badge)
 
 ### Backend Development
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### Cloud & Integrations
 
-\
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-EA4335?style=for-the-badge&logo=firebase&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-E54B4B?style=for-the-badge)
 
 ### Tools & Platforms
 
-
-
-\
-
-
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ## Featured Projects
