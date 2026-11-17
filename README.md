@@ -1,16 +1,97 @@
-## Hi there 👋
+# AndroidCraftLabs
 
-<!--
-**AndroidCraftLabs/AndroidCraftLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineer. Build. Innovate.
 
-Here are some ideas to get you started:
+**Building Android Experiences That Matter.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We build practical Android applications, reusable developer tools, and scalable backend solutions.
+
+Our focus is on creating reliable mobile experiences, exploring modern Android technologies, and sharing engineering knowledge through open-source projects.
+
+---
+
+## What We Build
+
+- **Android Applications** — Feature-rich native Android applications using Kotlin and Java.
+- **Android Libraries** — Reusable components, integrations, utilities, and development tools.
+- **Backend Engineering** — Scalable REST APIs and backend services using Laravel and PHP.
+- **Developer Resources** — Practical examples, architecture patterns, and tools for software developers.
+
+---
+
+## Tech Stack
+
+### Mobile Development
+
+
+
+\
+
+
+### Backend Development
+
+
+
+\
+
+
+### Tools & Platforms
+
+
+
+\
+
+
+---
+
+## Featured Projects
+
+A selection of projects focused on Android engineering, reusable components, and backend development.
+
+| Project                                                                                    | Description                                    | Technology       |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------- |
+| [Android App Open Ads](https://github.com/AndroidCraftLabs/android-app-open-ads)           | Lifecycle-aware App Open Ads integration       | Kotlin, AdMob    |
+| [Kotlin Android Utils](https://github.com/AndroidCraftLabs/kotlin-android-utils)           | Reusable Kotlin extensions and utilities       | Kotlin           |
+| [Android Remote Config](https://github.com/AndroidCraftLabs/android-remote-config)         | Firebase Remote Config implementation patterns | Kotlin, Firebase |
+| [Android Room Architecture](https://github.com/AndroidCraftLabs/android-room-architecture) | Database architecture and persistence examples | Kotlin, Room     |
+| [Laravel API Starter](https://github.com/AndroidCraftLabs/laravel-api-starter)             | Structured REST API starter                    | Laravel, PHP     |
+| [Status Saver API](https://github.com/AndroidCraftLabs/status-saver-api)                   | Social content and media management backend    | Laravel, MySQL   |
+
+---
+
+## Areas of Interest
+
+- Native Android development
+- Kotlin and modern Android architecture
+- Jetpack libraries and Android SDK
+- Application performance and optimization
+- Firebase and mobile monetization
+- REST API design and backend architecture
+- Secure authentication and media management
+- Developer productivity and reusable components
+
+---
+
+## GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AndroidCraftLabs\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="165" alt="GitHub statistics" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=AndroidCraftLabs\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Most used programming languages" /> \</p>
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=AndroidCraftLabs&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=AndroidCraftLabs\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" /> \</p>
+
+---
+
+## Let's Connect
+
+Have an interesting idea, technical question, or open-source collaboration in mind?
+
+We'd love to connect with developers and builders who enjoy creating useful software.
+
+- GitHub: [@AndroidCraftLabs](https://github.com/AndroidCraftLabs)
+- Website: Coming soon
+
+---
+
+\<p align="center">
+&#x20; \<b>Engineer. Build. Innovate.\</b>\<br/>
+&#x20; \<sub>Crafting better software, one project at a time.\</sub>
+\</p>
