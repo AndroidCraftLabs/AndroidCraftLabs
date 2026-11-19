@@ -126,6 +126,17 @@ We'd love to connect with developers and builders who enjoy creating useful soft
 
 ---
 
+## Featured Projects
+
+Check out these apps — all these source codes are available for direct purchase. ++ Source Code Availbe for Sell.
+
+| Project                                                                                    | Description                                    | Technology       |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------- |
+| [InDownloader](https://github.com/AndroidWithRossyn/InstagramDownloader)           | Save Video, Photo, Stories, reels from Instagram       | Kotlin, AdMob    |
+| [Video Downloader](https://github.com/AndroidWithRossyn/FacebookVideoDownloader)           | Save Videos from Social Media       | Kotlin           |
+
+---
+
 <p align="center">
 &#x20; <b>Engineer. Build. Innovate.</b><br/>
 &#x20; <sub>Crafting better software, one project at a time.</sub>
