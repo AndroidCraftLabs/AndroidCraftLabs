@@ -113,8 +113,6 @@ Our focus is on creating reliable mobile experiences, exploring modern Android t
 
 ---
 
----
-
 ## Let's Connect
 
 Have an interesting idea, technical question, or open-source collaboration in mind?
@@ -123,17 +121,6 @@ We'd love to connect with developers and builders who enjoy creating useful soft
 
 - GitHub: [@AndroidCraftLabs](https://github.com/AndroidCraftLabs)
 - Website: Coming soon
-
----
-
-## Featured Projects
-
-Check out these apps — all these source codes are available for direct purchase. ++ Source Code Availbe for Sell.
-
-| Project                                                                                    | Description                                    | Technology       |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------- | ---------------- |
-| [InDownloader](https://github.com/AndroidWithRossyn/InstagramDownloader)           | Save Video, Photo, Stories, reels from Instagram       | Kotlin, AdMob    |
-| [Video Downloader](https://github.com/AndroidWithRossyn/FacebookVideoDownloader)           | Save Videos from Social Media       | Kotlin           |
 
 ---
 
